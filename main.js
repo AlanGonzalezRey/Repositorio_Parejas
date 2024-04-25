@@ -1,5 +1,5 @@
 let cont = 0
-let num = 2
+let num = 1
 let suma = 0
 
 while (cont < 10) {
