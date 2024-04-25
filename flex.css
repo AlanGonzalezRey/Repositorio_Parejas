@@ -1,0 +1,29 @@
+* {  /*  margen y relleno 0, letra: Verdana, serif, ... */
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {   /*altura 70px  relleno d 40px,margen ... tamaño de letra 3 em  */
+	height: 70px;
+	margin-bottom: 50px;
+	font-size: 3em;
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+
+section {
+	background-color: grey;
+}
+
+article {
+	display: flex;
+	justify-content: flex-end;
+}
+
+img {
+	/* añade solo borde y margen */
+	border: 5px dashed white;
+	margin: 10px;
+}
